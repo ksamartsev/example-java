@@ -1,4 +1,4 @@
-# [Codecov](https://codecov.io) Java
+# [Codecov](https://codecov.io) Java1
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java?ref=badge_shield)
 
 This repository points to other example repositories on how Codecov can be integrated with a simple Java project.
